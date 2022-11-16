@@ -16,3 +16,13 @@ A simple moving average ([SMA](https://www.investopedia.com/terms/s/sma.asp)) ca
 * If yesterday's closing price was on the line or below the SMA line, today we will open a long position
 * If yesterday's closing price was above the SMA line, today we will open a short position
 * The position will be closed when today's price closes
+
+<br>
+
+## Preparation
+* Install [anaconda](https://www.anaconda.com/)
+* Install packages numpy (!pip install numpy)
+* Install packages pandas (!pip install pandas)
+* Install packages requests (!pip install requests)
+* Install packages tqdm (!pip install tqdm)
+* Install packages sqlalchemy (!pip install sqlalchemy)
