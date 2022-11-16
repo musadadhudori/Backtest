@@ -13,6 +13,6 @@ A simple moving average ([SMA](https://www.investopedia.com/terms/s/sma.asp)) ca
 <br>
 
 ## Method
->* If yesterday's closing price was on the line or below the SMA line, today we will open a long position
->* If yesterday's closing price was above the SMA line, today we will open a short position
->* The position will be closed when today's price closes
+* If yesterday's closing price was on the line or below the SMA line, today we will open a long position
+* If yesterday's closing price was above the SMA line, today we will open a short position
+* The position will be closed when today's price closes
