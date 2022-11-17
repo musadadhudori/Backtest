@@ -26,3 +26,4 @@ A simple moving average ([SMA](https://www.investopedia.com/terms/s/sma.asp)) ca
 * Install packages requests (!pip install requests)
 * Install packages tqdm (!pip install tqdm)
 * Install packages sqlalchemy (!pip install sqlalchemy)
+* Install packages matplotlib (!pip install matplotlib)
